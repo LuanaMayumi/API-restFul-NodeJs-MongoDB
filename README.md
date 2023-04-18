@@ -49,7 +49,6 @@ npm start
 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>&nbsp;
 <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD"/>
-- Express 
 - Mongoose
 
 ## :pushpin:  Referências utilizadas:
