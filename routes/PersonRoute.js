@@ -12,14 +12,14 @@ router.post('/', async (req, res) => {
     return
   }
  
-  const person = {
+  const newPerson = {
     name,
     salary,
     approved
   }
 
   try {
-    const person = await Person.create(person)
+    const person = await Person.create(newPerson)
     res.status(201).json({
       message: "Pessoa inserida no sistema com sucesso",
       person
