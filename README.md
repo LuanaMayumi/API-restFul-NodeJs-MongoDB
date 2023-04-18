@@ -4,6 +4,12 @@ Neste projeto foi desenvolvido uma API de pessoas com as informações de Nome, 
 Para testar a API com o CRUD - Create, Read, Update e Delete -  você pode utilizar o Thunder Client, uma extensão do VS Code.
 Após inserir os dados do cliente os dados ficarão salvos na API com o endpoint *'/person'*.
 
+**Veja uma demonstração abaixo:**
+
+<p align="center">
+  <img src="assets/project-people.gif">
+ </p>
+
 ## 🚀 Começando
 
 Para que você consiga acessar o projeto, siga as instruções abaixo:
